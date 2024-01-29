@@ -29,14 +29,6 @@
   object-fit: cover;
 }
 
-.modal-container {
-  max-width: 1112px;
-  padding: 20px;
-}
-
-.modal-container img {
-  display: block;
-  width: 100%;
-  height: auto;
-  margin: 0 auto;
+.simpleLightbox {
+  background-color: rgba(46, 47, 66, 0.8);
 }
